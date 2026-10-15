@@ -4,6 +4,27 @@ Proyecto personal de aprendizaje para centralizar la información profesional de
 
 La aplicación reproduce un caso de gestión interna utilizando exclusivamente datos ficticios. El código y la base de datos emplean nombres en inglés, mientras que la interfaz se presenta en español.
 
+## Demostración
+
+![Demostración de Gestión Docente](docs/images/demo-gestion-docente.gif)
+
+<details>
+<summary>Ver capturas de la aplicación</summary>
+
+### Panel de profesores
+
+![Panel de profesores](docs/images/panel-profesores.png)
+
+### Listado de profesores
+
+![Listado de profesores](docs/images/listado-profesores.png)
+
+### Gestión de servicios
+
+![Gestión de servicios](docs/images/gestion-servicios.png)
+
+</details>
+
 ## Funcionalidades
 
 - Acceso autenticado sin registro público.
